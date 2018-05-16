@@ -8,6 +8,9 @@ public class GitPrincipal {
 		System.out.println(" ma premire demo git");
 		System.out.println(" ma premire demo git");
 		System.out.println(" ma premire demo git");
+		System.out.println(" ma premire demo git");
+		System.out.println(" ma premire demo git");
+		
 	}
 
 }
